@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ansh-ki-rakhi/static/css/main.f6dbe942.css",
+    "main.css": "/ansh-ki-rakhi/static/css/main.c2dc7aa0.css",
     "main.js": "/ansh-ki-rakhi/static/js/main.e3b0c5ed.js",
     "static/js/147.1d71c391.chunk.js": "/ansh-ki-rakhi/static/js/147.1d71c391.chunk.js",
     "static/js/156.2e46031f.chunk.js": "/ansh-ki-rakhi/static/js/156.2e46031f.chunk.js",
@@ -8,14 +8,14 @@
     "static/media/wrist.png": "/ansh-ki-rakhi/static/media/wrist.dc0ff0e3f2af74ca786e.png",
     "static/media/qr.png": "/ansh-ki-rakhi/static/media/qr.98bfbe84c739dbaeb788.png",
     "index.html": "/ansh-ki-rakhi/index.html",
-    "main.f6dbe942.css.map": "/ansh-ki-rakhi/static/css/main.f6dbe942.css.map",
+    "main.c2dc7aa0.css.map": "/ansh-ki-rakhi/static/css/main.c2dc7aa0.css.map",
     "main.e3b0c5ed.js.map": "/ansh-ki-rakhi/static/js/main.e3b0c5ed.js.map",
     "147.1d71c391.chunk.js.map": "/ansh-ki-rakhi/static/js/147.1d71c391.chunk.js.map",
     "156.2e46031f.chunk.js.map": "/ansh-ki-rakhi/static/js/156.2e46031f.chunk.js.map",
     "453.db856a4b.chunk.js.map": "/ansh-ki-rakhi/static/js/453.db856a4b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6dbe942.css",
+    "static/css/main.c2dc7aa0.css",
     "static/js/main.e3b0c5ed.js"
   ]
 }
